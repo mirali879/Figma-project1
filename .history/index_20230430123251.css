@@ -176,6 +176,7 @@ li h5 {
 
   ul {
     width: 100%;
+    display: flex;
     flex-wrap: wrap;
   }
 

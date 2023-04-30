@@ -176,12 +176,14 @@ li h5 {
 
   ul {
     width: 100%;
+    display: flex;
     flex-wrap: wrap;
   }
 
 
   .list li{
     width: 86px;
+    margin:0 135px 34px 33px;  
   }
  
 }
